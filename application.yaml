@@ -16,4 +16,4 @@ eureka:
       enabled: true
       uri:
         - http://localhost:9296
-      label: main             
+      label: master             
