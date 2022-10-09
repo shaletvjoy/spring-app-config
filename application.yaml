@@ -10,10 +10,10 @@ eureka:
   #oauth2:
     #issuer: https://dev-39508552.okta.com/oauth2/default
     #audience: api://default
- spring:
-  cloud:
-    config:
-      enabled: true
-      uri:
-        - http://localhost:9296
-      label: master             
+ #spring:
+  #cloud:
+    #config:
+      #enabled: true
+      #uri:
+        #- http://localhost:9296
+      #label: master             
