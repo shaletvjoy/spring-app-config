@@ -16,4 +16,7 @@ eureka:
       #enabled: true
       #uri:
         #- http://localhost:9296
-      #label: master             
+      #label: master
+spring:
+  zipkin:
+    baseUrl: http://zipkin-svc:9411
